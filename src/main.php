@@ -38,8 +38,8 @@
                             </div>
                         </fieldset>
                         <div class="forms_buttons">
-                            <button type="button" class="forms_buttons-forgot">Forgot password?</button>
-                            <input type="submit" value="Log In" class="forms_buttons-action">
+                            <button type="button" class="forms_buttons-forgot" onclick="window.location.href='forget-password.php'">Forgot password?</button>
+                            <input type="submit" value="Log In" class="forms_buttons-action" >
                         </div>
                     </form>
                 </div>
